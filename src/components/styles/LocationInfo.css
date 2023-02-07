@@ -1,0 +1,33 @@
+
+.info1 {
+  
+  background-color: #062226;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 0px auto ;
+  grid-auto-rows: auto;
+  max-width: 1400px;
+  display: grid;
+  justify-items: center; 
+  
+  
+
+}
+
+
+.info__list2 {
+  display: flex;
+  gap: 50px;
+}
+
+.info__item2{
+  line-height: 27px;
+  color: white;
+  
+  
+}
+
+.info__list2 span{
+  display: block;
+  font-weight: bold;
+}

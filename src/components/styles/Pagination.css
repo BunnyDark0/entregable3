@@ -1,0 +1,21 @@
+
+.pagination__content {
+  
+}
+
+
+
+
+.pagination__list {
+  
+  display: flex;
+  line-height: 50px;
+  padding: 20px;
+  flex-flow: nowrap;
+  gap:40px;
+  color: white;
+  font-size: 24px; 
+  align-items: center;
+  justify-content: center;
+  
+}
